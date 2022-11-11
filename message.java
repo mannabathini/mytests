@@ -50,3 +50,141 @@ Definetely, not finding much, as he is mostly well versed in all skills required
   Madan is the backbone of Entitlement Manager and instrumental in making the Entitlement Manager to reach it’s GA milestone by end of Q3. From the beginning of the year he led several complex features in EM like Onboarding,  EverGreen Journey, Smart Approval API and Integration with EM etc with proper design and analysis in place. He is accountable to the work he takes up on and he is not only thorough from design, development to dev testing in any of the coding projects he does but also manages well documentation around it provides guidance to other developers.  He helped tremendously in running data validations and successfully led the data cleanup project. He helped in overlooking the EM adoption parties having proper collaboration in place with onboarding and business team, which made the effort seamless and successful. 2019 has been a great year, I encourage Madan to lead more technical initiatives, grow as a strong leader in 2020.
   
   
+Case 1:  Application Owner (AO)	-- 	IO Approval OR any BIO Approval
+Case 2:  Information Owner (IO)	--	AO Approval
+Case 3:  Back-up IO (BIO)		--	IO Approval OR any other BIO Approval
+Case 4:  Dual AO & IO 			--	Manager
+Case 5:  Update Role User		-- 	Both AO AND (IO Approval OR BIO Approval)
+
+Example data :
+SEAL : 104657
+AO : V737606
+IO : V675479
+BIO : F657830, R659047
+
+
+Dynamic Flow sample payload 
+
+Case 1:  Application Owner (AO)	-- 	IO Approval OR any BIO Approval
+  "dynamic": {
+    "parallel": {
+      "pool": [
+        {
+          "ExternalGroup": {
+            "@Source": "SEAL",
+            "@Role": "App",
+            "@Name": "Info, Backup info Owners",
+            "@Identifier": "1",
+            "additional": [
+              {
+                "@SID": "V675479"
+              },
+              {
+                "@SID": "F657830"
+              },
+              {
+                "@SID": "R659047"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+------
+Case 2:  Information Owner (IO)	--	AO Approval
+  "dynamic": {
+    "parallel": {
+      "pool": [
+        {
+          "additional": {
+            "@SID": "V737606",
+            "@RoleRequired": "True",
+            "@RoleName": "Owner",
+            "@ConfigItem": "App",
+            "@Source": "SEAL"
+          }
+        }
+      ]
+    }
+  }
+------
+Case 3:  Back-up IO (BIO)		--	IO Approval OR any other BIO Approval
+  "dynamic": {
+    "parallel": {
+      "pool": [
+        {
+          "ExternalGroup": {
+            "@Source": "SEAL",
+            "@Role": "App",
+            "@Name": "Info, Backup info Owners",
+            "@Identifier": "1",
+            "additional": [
+              {
+                "@SID": "V675479"
+              },
+              {
+                "@SID": "F657830"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+
+---------
+Case 4:  Dual AO & IO 			--	Manager
+  "dynamic": {
+    "parallel": {
+      "pool": [
+        {
+          "additional": {
+            "@SID": "F657830",
+            "@RoleRequired": "True",
+            "@RoleName": "Manager",
+            "@ConfigItem": "User",
+            "@Source": "IDENTITY"
+          }
+        }
+      ]
+    }
+  }
+  
+---------
+Case 5:  Update Role User		-- 	Both AO AND (IO Approval OR BIO Approval)
+
+  "dynamic": {
+    "parallel": {
+      "pool": [
+        {
+          "additional": {
+            "@SID": "V737606",
+            "@RoleRequired": "True",
+            "@RoleName": "Owner",
+            "@ConfigItem": "App",
+            "@Source": "SEAL"
+          }
+        },
+        {
+          "ExternalGroup": {
+            "@Source": "SEAL",
+            "@Role": "App",
+            "@Name": "Info, Backup info Owners",
+            "@Identifier": "1",
+            "additional": [
+              {
+                "@SID": "V675479"
+              },
+              {
+                "@SID": "F657830"
+              },
+              {
+                "@SID": "R659047"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }

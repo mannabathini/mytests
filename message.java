@@ -1,3 +1,170 @@
+210531228	2025 Systematic Trading Analyst Program - Summer Analyst	Katherine Bush	katie.bush@jpmchase.com	1-614-213-1907
+210527407	2025 Software Engineer Program - Summer Internship – United States	Morley Jabon 	morley.jabon@jpmorgan.com	1-212-552-1974
+210531712	2025 Data Science Analyst Program - Summer Analyst	Zakiya Evans	zakiya.evans@jpmchase.com	
+210517749	2025 Chase Leadership Development Program - Summer Analyst (New York)	Sarah Garcia	sarah.x.garcia@chase.com	1-212-623-5846
+210523871	2025 Chase Leadership Development Program – Summer Analyst (Insights Programs)	Sarah Garcia	sarah.x.garcia@chase.com	1-212-623-5846
+210517367	2025 Chase Leadership Development Program - Summer Analyst	Sarah Garcia	sarah.x.garcia@chase.com	1-212-623-5846
+210518306	2025 Global Finance & Business Management Analyst Program - Corporate Controllers Track (Delaware) - Summer Analyst	Keandra Golden	keandra.golden@jpmchase.com	
+210523686	2025 Global Finance & Business Management Analyst Program – Summer Analyst - NY Metro	Alexa Zysman	alexa.zysman@jpmchase.com	
+210517443	2025 Global Finance & Business Management Analyst Program – Summer Analyst (Insights Programs)	Keandra Golden	keandra.golden@jpmchase.com	
+210523301	2025 Global Finance & Business Management Analyst Program – Summer Analyst (DE, IL, OH, TX)	Keandra Golden	keandra.golden@jpmchase.com	
+210470930	2025 Corporate & Investment Bank Markets Summer Analyst Program			
+210468844	2025 Corporate & Investment Bank Global Corporate Banking Summer Analyst Program			
+210470948	2025 Corporate & Investment Bank Markets Summer Analyst Program - Research	 		
+210468810	2025 Corporate & Investment Bank Payments Summer Analyst Program			
+210521838	2025 Corporate Analyst Development Program – Summer Analyst (Insights Programs)	Joy Nichols	joy.nichols@chase.com	
+210521365	2025 Corporate Analyst Development Program – Summer Analyst (OH, DE, FL, TX)	Mackenzie Courtoy	mackenzie.courtoy@jpmchase.com	
+210521288	2025 Corporate Analyst Development Program - Summer Analyst (New York Metro)			
+210521481	2025 Corporate Analyst Development Program – Summer Analyst (Chicago, IL)			
+210521093	2025 Operations Analyst Program – Summer Analyst (New York Metro/Chicago)			
+210520964	2025 Operations Analyst Program – Summer Analyst (Insights Programs)	Alexis Foster	kyra.foster@jpmchase.com	
+210521118	2025 Operations Analyst Program – Summer Analyst (AZ, DE, FL, OH, TX)	Blanca Maldonado	blanca.maldonado@chase.com	
+210523660	2025 Internal Audit Analyst Program - Summer Analyst Opportunity (Jersey City, NJ)	Bianca Quinones	bianca.quinones@chase.com	
+210523322	2025 Internal Audit Analyst Program - Summer Analyst Opportunity Insight Programs	Abigail Landsaw	abigail.landsaw@jpmorgan.com	1-972-324-1797
+210523366	2025 Internal Audit Analyst Program - Summer Analyst Opportunity	Bianca Quinones	bianca.quinones@chase.com	
+210527899	2025 Software Engineer Program - Summer Internship (Code for Good Hackathon) - United States	Katherine Bush	katie.bush@jpmchase.com	1-614-213-1907
+
+
+
+  
+
+210531228	2025 Systematic Trading Analyst Program - Summer Analyst
+Morley Jabon ,  Hiring Manager
+morley.jabon@jpmorgan.com  ,  1-212-552-1974
+
+Katherine Bush , Recruiter
+katie.bush@jpmchase.com  , 1-614-213-1907
+
+
+210527407	2025 Software Engineer Program - Summer Internship – United States
+Morley Jabon   , Recruiter
+morley.jabon@jpmorgan.com ,  1-212-552-1974
+
+210531712	2025 Data Science Analyst Program - Summer Analyst ---  NO 
+Zakiya Evans ,  Recruiter
+zakiya.evans@jpmchase.com
+
+Aarti Ramakrishnan ,  Hiring Manager
+aarti.ramakrishnan@jpmchase.com
+
+
+
+210517749	2025 Chase Leadership Development Program - Summer Analyst (New York)
+210523871	2025 Chase Leadership Development Program – Summer Analyst (Insights Programs)
+210517367	2025 Chase Leadership Development Program - Summer Analyst
+Sarah Abt ,  Hiring Manager
+sarah.abt@chase.com , 1-212-552-0947
+
+Sarah Garcia ,  Recruiter
+sarah.x.garcia@chase.com , 1-212-623-5846
+
+
+
+
+210518306	2025 Global Finance & Business Management Analyst Program - Corporate Controllers Track (Delaware) - Summer Analyst
+Jayne Kirby  ,  Hiring Manager
+jayne.kirby@jpmorgan.com
+
+Keandra Golden  ,  Recruiter
+keandra.golden@jpmchase.com
+
+210523686	2025 Global Finance & Business Management Analyst Program – Summer Analyst - NY Metro
+Jayne Kirby ,  Hiring Manager
+jayne.kirby@jpmorgan.com
+
+Alexa Zysman , Recruiter
+alexa.zysman@jpmchase.com
+
+
+210517443	2025 Global Finance & Business Management Analyst Program – Summer Analyst (Insights Programs)
+210523301	2025 Global Finance & Business Management Analyst Program – Summer Analyst (DE, IL, OH, TX)
+Jayne Kirby , Hiring Manager
+jayne.kirby@jpmorgan.com
+
+Keandra Golden , Recruiter
+keandra.golden@jpmchase.com
+
+
+
+
+210470930	2025 Corporate & Investment Bank Markets Summer Analyst Program
+210468844	2025 Corporate & Investment Bank Global Corporate Banking Summer Analyst Program
+210470948	2025 Corporate & Investment Bank Markets Summer Analyst Program - Research
+210468810	2025 Corporate & Investment Bank Payments Summer Analyst Program
+
+210521838	2025 Corporate Analyst Development Program – Summer Analyst (Insights Programs)
+Khevna Mody , Hiring Manager
+khevna.mody@jpmchase.com
+
+Joy Nichols , Recruiter
+joy.nichols@chase.com
+
+210521365	2025 Corporate Analyst Development Program – Summer Analyst (OH, DE, FL, TX)
+Khevna Mody , Hiring Manager
+khevna.mody@jpmchase.com
+
+Mackenzie Courtoy,  Recruiter
+mackenzie.courtoy@jpmchase.com
+
+
+
+210521288	2025 Corporate Analyst Development Program - Summer Analyst (New York Metro)
+210521481	2025 Corporate Analyst Development Program – Summer Analyst (Chicago, IL)
+210521093	2025 Operations Analyst Program – Summer Analyst (New York Metro/Chicago)
+
+
+210520964	2025 Operations Analyst Program – Summer Analyst (Insights Programs)
+Khevna Mody , Hiring Manager
+khevna.mody@jpmchase.com
+
+Alexis Foster , Recruiter
+kyra.foster@jpmchase.com
+
+
+210521118	2025 Operations Analyst Program – Summer Analyst (AZ, DE, FL, OH, TX)
+Khevna Mody ,  Hiring Manager
+khevna.mody@jpmchase.com
+
+Blanca Maldonado , Recruiter
+blanca.maldonado@chase.com
+
+
+
+
+210523322	2025 Internal Audit Analyst Program - Summer Analyst Opportunity Insight Programs
+Abigail Landsaw ,  Recruiter
+abigail.landsaw@jpmorgan.com , 1-972-324-1797
+
+Benjamin Lewis , Hiring Manager
+benjamin.lewis@jpmchase.com
+
+
+
+210523660	2025 Internal Audit Analyst Program - Summer Analyst Opportunity (Jersey City, NJ)
+210523366	2025 Internal Audit Analyst Program - Summer Analyst Opportunity
+Bianca Quinones , Recruiter
+bianca.quinones@chase.com
+
+Benjamin Lewis , Hiring Manager
+benjamin.lewis@jpmchase.com
+
+
+
+210527899	2025 Software Engineer Program - Summer Internship (Code for Good Hackathon) - United States
+Morley Jabon ,  Hiring Manager
+morley.jabon@jpmorgan.com ,  1-212-552-1974
+
+Katherine Bush , Recruiter
+katie.bush@jpmchase.com,  1-614-213-1907
+
+Plano, TX: October 19th-20th 
+Welcoming participants interested in Plano, TX, Houston, TX, Palo Alto, CA, or Seattle, WA
+Application Deadline: September 27, 2024
+
+
+
+
+
 1. Attending cohort meetings, attending events.
 2. Will be able to provide opportunity after completion of certificate in few months as presently
 our application are on linux servers and we might move to cloud applications. 
